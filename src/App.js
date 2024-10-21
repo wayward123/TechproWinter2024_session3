@@ -39,7 +39,7 @@ function Board({ xIsNext, squares, onPlay }) {
           <button>03</button>
           <button>04</button>
           <button>05</button>
-          <button>03</button>
+          <button>06</button>
           <button>07</button>
           <button>08</button>
           <button>09</button>
@@ -69,7 +69,7 @@ function Board({ xIsNext, squares, onPlay }) {
           <button>29</button>
           <button>30</button>
           <button>31</button>
-          <button>32</button>
+          <button>mew</button>
           <button>33</button>
           <button>34</button>
           <button>35</button>
